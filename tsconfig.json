@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "sourceMap": true,
+        "watch": true,
+        "outDir": ".debug",
+        "lib": [
+            "es2017"
+        ]
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+}
